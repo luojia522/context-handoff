@@ -1,0 +1,20 @@
+{
+  "$schema": "https://catalog.msh.team/misc/kimi.plugin.schema.json",
+  "name": "context-handoff",
+  "version": "0.1.0",
+  "description": "人机结合系统的上下文交接规程：断线/压缩前的自报五栏、新会话载入四步验收、装机清单核对、压缩观测立档。让 AI 协作者在上下文压缩、换窗、冷启动后无损接手。",
+  "keywords": ["context-handoff", "上下文交接", "冷启动", "人机结合", "接续", "handoff", "context-compression"],
+  "author": "潘罗嘉 (luojia522)",
+  "license": "MIT",
+  "skillInstructions": "当会话将断、发生上下文压缩、换窗口或新会话冷启动时，按本规程执行「交」（五栏自报）与「接」（四步验收＋回读验收对物证不对自述）。判断与裁决永留人侧。",
+  "interface": {
+    "displayName": "上下文交接 · 重启人机结合系统",
+    "shortDescription": "在 Kimi 里使用 上下文交接 · 重启人机结合系统",
+    "longDescription": "人机结合系统的上下文交接规程：断线/压缩前的自报五栏、新会话载入四步验收、装机清单核对、压缩观测立档。让 AI 协作者在上下文压缩、换窗、冷启动后无损接手。",
+    "developerName": "潘罗嘉 (luojia522)",
+    "websiteURL": "https://github.com/luojia522/context-handoff",
+    "iconUrl": "",
+    "category": "PRODUCTIVITY"
+  },
+  "skills": "./skills/"
+}
