@@ -1,5 +1,12 @@
 # context-handoff · 上下文交接（重启人机结合系统）
 
+![banner](assets/banner.png)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/luojia522/context-handoff)
+[![Kimi Plugin](https://img.shields.io/badge/Kimi-plugin-6f42c1.svg)](https://github.com/luojia522/context-handoff)
+[![Protocol](https://img.shields.io/badge/handoff-5--4--1-brightgreen.svg)](#这是什么)
+
 > 让人与 AI 的协作者关系，活过上下文压缩、换窗与冷启动。
 > Let human–AI collaboration survive context compression, window switches, and cold starts.
 
@@ -46,6 +53,8 @@ context-handoff/
 ├── skills/
 │   └── context-handoff/
 │       └── SKILL.md                 # 规程正文（交五栏／接四步／清单核对／观测立档）
+├── assets/
+│   └── banner.png                   # 头图（AI 生成：人手递档·机手承接）
 ├── LICENSE                          # MIT
 └── README.md
 ```
